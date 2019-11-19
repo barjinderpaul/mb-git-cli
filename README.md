@@ -10,9 +10,9 @@
 
 **Session** on Git and Github
 
-[Version Control with Git - Udacity Video Course](https://in.udacity.com/course/version-control-with-git--ud123)
+[Version Control with Git - Udacity Video Course](https://in.udacity.com/course/version-control-with-git--ud123) - done
 
-[GitHub & Collaboration - Udacity Video Course](https://in.udacity.com/course/github-collaboration--ud456)
+[GitHub & Collaboration - Udacity Video Course](https://in.udacity.com/course/github-collaboration--ud456) - done
 
 [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
 
