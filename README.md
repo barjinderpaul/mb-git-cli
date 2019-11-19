@@ -2,7 +2,7 @@
 
 **Session** on CLI.
 
-[Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+[Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) - done
 
 [Commonly Used Linux Commands](https://www.thegeekstuff.com/2010/11/50-linux-commands/)
 
